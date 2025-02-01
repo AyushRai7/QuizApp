@@ -1,5 +1,30 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# QuizApp
+
+## Project Overview
+
+**QuizApp** is an interactive and engaging web application designed to make taking quizzes fun and easy. With a sleek and responsive user interface, it provides an optimal experience across all devices—desktop, tablet, and mobile. Users can take quizzes, track their scores in real-time, and enjoy an intuitive quiz-taking process.
+
+### Key Features:
+- **Real-Time Scoring**: Get instant feedback on your answers.
+- **Responsive Design**: Seamless user experience across all screen sizes.
+- **User-Friendly Interface**: Easy navigation and visually appealing layout.
+
+## UI Overview:
+![Home Page](./screenshots/img1.png)  
+_Screenshot showing the QuizApp homepage_
+
+![Quiz Page](./screenshots/img2.png)  
+_Screenshot of the quiz page, where users interact with quiz questions_
+
+![Result Page](./screenshots/img3.png)  
+_Screenshot of the quiz page, where score show_
+
+![Result Page](./screenshots/img4.png)  
+_Screenshot of the quiz page, where score show_
+
+
 ## Getting Started
 
 First, run the development server:
